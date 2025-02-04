@@ -5,16 +5,15 @@
 |                |                                  |
 >>>>>>> parent of bafc74f (Update README.md)
 | -------------- | -------------------------------- |
-| Framework      | Next.js 15, React 19             |
+| Frmework       | Next.js 15, React 19             |
 | UI             | Tailwind, Shadcn, Recharts       |
 | Database       | MongoDB, Mongoose                |
 | Payment        | PayPal, Stripe                   |
 | Deployment     | Github, Vercel                   |
 | Authentication | Auth.js, Google Auth, Magic Link |
-| Others         | Uploadthing, resend, zod, etc    |
-| -------------- | -------------------------------- |
+| Others         | uploadthing, resend, zod, etc    |
 
-## Information
+
 - creating e-commerce website pages by next.js server components
 - designing header, footer, sidebar, menu and search box by shadcn and tailwind
 - quick view products in modals using nextjs parallel routes with intercepting routes
@@ -27,9 +26,11 @@
 - and implement a fully-functional admin dashboard with beautiful charts and handling products, orders and users
 
 ## Run Locally
-Run: npm install
-Run: npm run dev
-Run: npm run sad
+
+
+
+## Lessons
+
 - [00-introduction](./lessons/00-introduction.md)
 - [01-install-ai-tools-and-vscode-extensions](./lessons/01-install-ai-tools-and-vscode-extensions.md)
 - [02-create-next-app](./lessons/02-create-next-app.md)
