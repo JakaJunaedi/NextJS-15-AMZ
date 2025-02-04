@@ -9,7 +9,7 @@
 | Authentication | Auth.js, Google Auth, Magic Link |  
 | Others         | uploadthing, resend, zod, etc    |  
 
-## Information  
+## Information
 - creating e-commerce website pages by next.js server components
 - designing header, footer, sidebar, menu and search box by shadcn and tailwind
 - quick view products in modals using nextjs parallel routes with intercepting routes
@@ -26,5 +26,5 @@ Run: npm install
 Run: npm run dev  
 Run: npm run sad  
 
-## Contact Developer  
+## Contact Developer
 Email: jaka.junaedi03@gmail.com
