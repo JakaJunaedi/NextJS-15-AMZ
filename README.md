@@ -9,6 +9,7 @@
 | Deployment     | Github, Vercel                   |
 | Authentication | Auth.js, Google Auth, Magic Link |
 | Others         | uploadthing, resend, zod, etc    |
+|                | Prisma, CloudFLare               |
 
 
 ## View Demo Website
