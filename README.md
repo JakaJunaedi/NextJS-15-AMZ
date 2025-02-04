@@ -9,7 +9,7 @@
 | Payment        | PayPal, Stripe                   |
 | Deployment     | Github, Vercel                   |
 | Authentication | Auth.js, Google Auth, Magic Link |
-| Others         | uploadthing, resend, zod, etc    |
+| Others         | Uploadthing, resend, zod, etc    |
 
 
 ## View Demo Website
