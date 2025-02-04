@@ -2,14 +2,14 @@
 
 |                |                                  |
 | -------------- | -------------------------------- |
-| Frmework       | Next.js 15, React 19             |
+| Language       | Node.js 20, TypeScript           |
+| Framework      | Next.js 15                       |
 | UI             | Tailwind, Shadcn, Recharts       |
 | Database       | MongoDB, Mongoose                |
 | Payment        | PayPal, Stripe                   |
 | Deployment     | Github, Vercel                   |
 | Authentication | Auth.js, Google Auth, Magic Link |
 | Others         | uploadthing, resend, zod, etc    |
-|                | Prisma, CloudFLare               |
 
 
 ## View Demo Website
