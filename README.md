@@ -1,5 +1,4 @@
 ## Build Full-ECommerce Website By Next.js 15 & MongoDB  
-  
 | -------------- | -------------------------------- |  
 | Framework      | Next.js 15, React 19             |  
 | UI             | Tailwind, Shadcn, Recharts       |  
@@ -8,7 +7,7 @@
 | Deployment     | Github, Vercel                   |  
 | Authentication | Auth.js, Google Auth, Magic Link |  
 | Others         | uploadthing, resend, zod, etc    |  
-
+  
 ## Information
 - creating e-commerce website pages by next.js server components
 - designing header, footer, sidebar, menu and search box by shadcn and tailwind
@@ -20,11 +19,11 @@
 - handling authentication and authorization by next-auth
 - creating customer dashboard to update profile and track orders
 - and implement a fully-functional admin dashboard with beautiful charts and handling products, orders and users  
-
+  
 ## Run Locally
 Run: npm install  
 Run: npm run dev  
 Run: npm run sad  
-
+  
 ## Contact Developer
 Email: jaka.junaedi03@gmail.com
