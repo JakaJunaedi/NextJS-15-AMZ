@@ -5,7 +5,7 @@
 |                |                                  |
 >>>>>>> parent of bafc74f (Update README.md)
 | -------------- | -------------------------------- |
-| Frmework       | Next.js 15, React 19             |
+| Framework      | Next.js 15, React 19             |
 | UI             | Tailwind, Shadcn, Recharts       |
 | Database       | MongoDB, Mongoose                |
 | Payment        | PayPal, Stripe                   |
